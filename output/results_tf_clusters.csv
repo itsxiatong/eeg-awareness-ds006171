@@ -1,0 +1,3 @@
+sign,freq,time,p,p_permutation_unrounded,n_null_ge_observed,n_permutations
++,4-9 Hz,109-391 ms,0.0065,0.0065,13,2000
+−,4-30 Hz,281-1000 ms,0.0005,0.0005,1,2000

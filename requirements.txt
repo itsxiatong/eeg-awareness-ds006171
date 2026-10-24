@@ -1,0 +1,9 @@
+mne>=1.12
+numpy
+scipy
+pandas
+scikit-learn>=1.5
+statsmodels
+pingouin
+matplotlib
+openneuro-py
